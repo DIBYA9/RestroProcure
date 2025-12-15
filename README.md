@@ -11,6 +11,7 @@ RestroProcure converts informal human instructions and raw inventory data into a
 The core objective is to demonstrate how Generative AI can function as a bounded decision agent rather than an open-ended conversational model.
 
 ---
+![RestroProcure System Overview](public/image.png)
 
 ## Key Capabilities
 
