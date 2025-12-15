@@ -1,0 +1,26 @@
+{
+  "name": "restroprocure",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Policy-bound agentic procurement planner for restaurants using Gemini function calling.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "firebase": "^10.7.1",
+    "lucide-react": "^0.453.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
